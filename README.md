@@ -82,9 +82,13 @@ This project is open source and available under the MIT License.
 📞 Contact
 
 For support or business inquiries, reach out to us at:
-📧 support@rodelestate.com
+📧 rodelkairu@gmail.com
 
-
+## images
+![alt text](<screenshots/Screenshot From 2025-08-07 14-12-47.png>) 
+![alt text](<screenshots/Screenshot From 2025-08-07 14-24-33.png>) 
+![alt text](<screenshots/Screenshot From 2025-08-07 14-24-39.png>) 
+![alt text](<screenshots/Screenshot From 2025-08-07 14-24-50.png>)
 
 
 ```bash
