@@ -85,11 +85,11 @@ For support or business inquiries, reach out to us at:
 📧 rodelkairu@gmail.com
 
 ## images
-![alt text](<screenshots/Screenshot From 2025-08-07 14-12-47.png>) 
-![alt text](<screenshots/Screenshot From 2025-08-07 14-24-33.png>) 
-![alt text](<screenshots/Screenshot From 2025-08-07 14-24-39.png>) 
-![alt text](<screenshots/Screenshot From 2025-08-07 14-24-50.png>)
 
+<img width="1336" height="582" alt="Screenshot From 2025-08-07 14-12-47" src="https://github.com/user-attachments/assets/7ef3192f-b4ac-4d88-9799-852840f6ab0a" />
+<img width="1336" height="582" alt="Screenshot From 2025-08-07 14-24-33" src="https://github.com/user-attachments/assets/645e9941-d281-45e6-a9cb-79b66f8c5476" />
+<img width="1336" height="582" alt="Screenshot From 2025-08-07 14-24-39" src="https://github.com/user-attachments/assets/b06ed414-f43d-42f9-9fb4-91ed1bcc8443" />
+<img width="1336" height="582" alt="Screenshot From 2025-08-07 14-24-50" src="https://github.com/user-attachments/assets/aa153566-c8b2-4a2d-8b7a-1d02fdff2ee5" />
 
 ```bash
 /rodel-estate
